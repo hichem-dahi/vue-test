@@ -1,5 +1,5 @@
 # vue-project
-
+http://vue-test249.s3-website-us-east-1.amazonaws.com/
 ## Project setup
 ```
 npm install
